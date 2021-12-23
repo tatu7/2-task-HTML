@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(103, 207, 103);
+}
+.box {
+  background-color: #fff;
+  width: 40%;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 50px auto;
+}
+h1 {
+  font-family: sans-serif;
+}
+.title {
+  font-style: italic;
+  color: #555555;
+}
+.add {
+  background-color: blue;
+  border: none;
+  border-radius: 10%;
+  padding: 4px 15px;
+  height: 32px;
+  color: #fff;
+}
+h3 {
+  background-color: #5555;
+  color: #555555;
+}
+input {
+  height: 25px;
+}
+button a {
+  color: #fff;
+  text-decoration: none;
+}

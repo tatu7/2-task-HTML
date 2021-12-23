@@ -1,0 +1,51 @@
+body {
+  background-color: #3ad0fe;
+}
+.box {
+  background-color: #a6e6fe;
+  padding: 20px;
+  border: 1px solid #000;
+  width: 80%;
+  margin: 40px auto;
+  height: 50vh;
+  box-shadow: 5px 5px 5px 5px #a6e6fe;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #042753;
+}
+.quastion {
+  background-color: #0d1591;
+  padding: 10px 20px;
+  border-radius: 15px;
+  color: #fff;
+  font-size: 16px;
+}
+td {
+  width: 400px;
+}
+.answers {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+.answers p {
+  background-color: #d2f2fd;
+  padding: 10px;
+  border-radius: 15px;
+}
+.box button {
+  position: absolute;
+  right: 145px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: #ee8cfe;
+}
+button a {
+  text-decoration: none;
+  color: #0d1591;
+}

@@ -1,0 +1,36 @@
+body {
+  background-color: #2a4453;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-color: #525bdc;
+  margin: 0 auto;
+  width: 40%;
+  color: #fff;
+  padding: 100px;
+  height: 455px;
+}
+
+h1 {
+  text-align: center;
+}
+hr {
+  width: 544px;
+  margin: 0;
+}
+.container p {
+  border: 1px solid white;
+  padding: 5px;
+}
+button {
+  width: 544px;
+  background-color: cyan;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(170, 145, 145);
+  text-transform: uppercase;
+  padding: 10px;
+}

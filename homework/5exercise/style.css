@@ -1,0 +1,75 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+header {
+  background-color: #323941;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  padding-left: 20px;
+}
+header img {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  width: 50px;
+  height: 40px;
+}
+header h3 {
+  color: #fff;
+}
+h1 {
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 60px;
+}
+.issueButton {
+  background-color: #007ffc;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+/* boxes */
+.boxes {
+  margin-top: 20px;
+}
+.box {
+  background-color: #fec3c9;
+  padding: 20px;
+}
+.box_nav {
+  position: relative;
+}
+h4 {
+  font-size: 24px;
+
+  display: inline;
+}
+.box_nav button {
+  position: absolute;
+  background-color: red;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  right: 0;
+}
+.box img {
+  width: 20px;
+  height: 20px;
+}
+.box span {
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 50%;
+}
+/* box2 */
+.box2 {
+  background-color: #feecb2;
+}
+.box3 {
+  background-color: #b9e6c9;
+}
